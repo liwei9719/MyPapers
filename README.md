@@ -1,5 +1,21 @@
 # My Paper List
 
+### [Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios.](https://arxiv.org/abs/2207.05501)
+
++ 研究视觉 Transformer 和 CNN 混合模型设计及其工业场景应用，提出了高效且便于部署的下一代 ViT 混合模型架构 (Next-ViT)；
++ Next-ViT 在各种视觉任务上实现了目前先进 ViT 的性能精度，同时具有和经典的 CNN 模型相同的 TensorRT/CoreML 推理耗时；
+
+```latex
+@article{li2022next,
+  title={Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios},
+  author={Li, Jiashi and Xia, Xin and Li, Wei and Li, Huixia and Wang, Xing and Xiao, Xuefeng and Wang, Rui and Zheng, Min and Pan, Xin},
+  journal={arXiv preprint arXiv:2207.05501},
+  year={2022}
+}
+```
+
+
+
 ### [SepViT: Separable Vision Transformer.](https://arxiv.org/abs/2203.15380)
 
 + 研究视觉 Transformer 模型结构设计及其轻量化方法，提出了轻量化 的深度可分离视觉 Transformer 网络模型架构 (SepViT)；
